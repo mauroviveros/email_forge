@@ -1,0 +1,7 @@
+{
+  "name": "email_forge",
+  "description": "Streamline your email template creation process with EmailForge, where Pug, CSS, and JSON unite for dynamic and visually appealing emails.",
+  "author": "Mauro Daniel Viveros <maurod.viveros@gmail.com> (TRY Ubbe)",
+  "version": "0.0.0",
+  "license": "MIT"
+}
